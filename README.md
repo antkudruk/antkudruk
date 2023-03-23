@@ -1,5 +1,5 @@
 - 👋 Hello, World, I’m Anton Kudruk
-- :sunglasses: Graduated from Belarussian State University of Transport in 2012 as an Electrotechnical Engineer. Passed postgraduation programme in 2014.\
+- :sunglasses: Graduated from Belarussian State University of Transport in 2012 as an Electrotechnical Engineer. Passed postgraduation programme in 2014.
 - :floppy_disk: Have experince in Java (since 2015), React, Javascript and Typescript(since 2017). Also havesome experience in C++ and Python
 - :sound: Speaking English at C1 level
 - 👀 I’m interested in science, horor stories, and painting
